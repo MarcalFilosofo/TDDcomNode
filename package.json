@@ -1,0 +1,17 @@
+{
+  "name": "tddcomnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^27.0.3",
+    "express": "^4.17.2",
+    "jest": "^27.4.5",
+    "supertest": "^6.1.6"
+  }
+}
